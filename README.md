@@ -53,7 +53,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on creating a movie theatre booking web application<br>🌱 I’m currently learning React and Python<br>💬 Ask me about Algorithms and Data Structures<br>🤝 I’m looking for help with hackathons<br>📫 How to reach me saad.usmani@torontomu.com</p>
+<p align="left">🔭 I’m currently working on creating a movie theatre booking web application<br>🌱 I’m currently learning React and Python<br>💬 Ask me about Algorithms and Data Structures<br>🤝 I’m looking for help with hackathons<br>📫 How to reach me <a href="mailto:saad.usmani@torontomu.com">saad.usmani@torontomu.com</a></p>
 
 ###
 
