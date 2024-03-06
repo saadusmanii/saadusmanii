@@ -1,10 +1,9 @@
 <h2 align="left">Hi 👋 I'm Saad!</h2>
 
 ###
-<div style="position:relative; padding-top:57.333%;">
-  <iframe src="https://gifer.com/embed/3AyY" width="100%" height="100%" style="position:absolute; top:0; left:0;" frameborder="0" allowfullscreen></iframe>
+<div>
+  <img src='https://commons.wikimedia.org/wiki/File:Programming123najra.gif#/media/File:Programming123najra.gif' height='250' width='350' alt='coding gif' />
 </div>
-<p><a href="https://gifer.com">via GIFER</a></p>
 
 ###
 
